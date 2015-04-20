@@ -1,0 +1,8 @@
+.idea
+*.log
+*.tmp
+.DS*
+._*
+.Apple*
+*~
+node_modules
